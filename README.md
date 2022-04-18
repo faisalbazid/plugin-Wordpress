@@ -1,1 +1,1 @@
-# plugin-Wordpress : format .zip
+# plugin-Wordpress : download fichier format .zip
